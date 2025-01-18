@@ -1430,6 +1430,7 @@
         <members>Use_CRM_Analytics_Templated_Apps</members>
         <members>View_All_Forecasts</members>
         <members>sfdcInternalInt__sfdc_activityplatform</members>
+        <members>SOjbect_TwoFactorMethodsInfo</members>
         <name>PermissionSet</name>
     </types>
     <types>
